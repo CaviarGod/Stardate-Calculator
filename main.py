@@ -78,3 +78,4 @@ if m == "December":
 d = int(input("What's the day of the month?: "))
 Stardate = float(c + (1000*(y-b)) + ((1000/n)*(m + d -1)))
 print ("%0.02f" % Stardate)
+raw_input()
