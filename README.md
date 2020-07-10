@@ -2,7 +2,8 @@
 Want to start a Log? Now's the time!
 
 ![alt text](Image/Stardate.jpg)
-Image Credits: (Memory Alpha)[https://memory-alpha.fandom.com/wiki/Stardate]
+
+Image Credits: [Memory Alpha](https://memory-alpha.fandom.com/wiki/Stardate)
 
 # How to Use
 
